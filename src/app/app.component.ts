@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl, Validators, FormArray } from '@angular/forms';
 import { CustomValidators } from './Validators/noSpaceAllowed.validator';
 
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
